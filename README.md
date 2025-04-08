@@ -26,13 +26,13 @@ This project was built as part of the **Zero to Mastery Business Intelligence Bo
 ## 📸 Dashboard Previews
 
 ### Key Metrics
-![Key Metrics](metrics.PNG)
+![Key Metrics](images/metrics.PNG)
 
 ### Profit by Product
-![Profit by Product](profit_by_product.PNG)
+![Profit by Product](images/profit_by_product.PNG)
 
 ### Profit by Region
-![Profit by Region](profit_by_region.PNG)
+![Profit by Region](images/profit_by_region.PNG)
 
 ---
 
