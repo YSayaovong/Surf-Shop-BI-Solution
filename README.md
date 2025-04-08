@@ -23,6 +23,19 @@ This project was built as part of the **Zero to Mastery Business Intelligence Bo
 
 ---
 
+## 📸 Dashboard Previews
+
+### Key Metrics
+![Key Metrics](metrics.PNG)
+
+### Profit by Product
+![Profit by Product](profit_by_product.PNG)
+
+### Profit by Region
+![Profit by Region](profit_by_region.PNG)
+
+---
+
 ## 🧰 Tools Used
 
 - Microsoft Excel (Power Query, PivotTables, Advanced Functions)
